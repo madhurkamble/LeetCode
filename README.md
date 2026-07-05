@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
