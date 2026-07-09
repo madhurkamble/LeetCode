@@ -22,6 +22,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
