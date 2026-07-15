@@ -143,6 +143,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/madhurkamble/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhurkamble/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -182,6 +183,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -193,6 +195,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -208,6 +211,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
