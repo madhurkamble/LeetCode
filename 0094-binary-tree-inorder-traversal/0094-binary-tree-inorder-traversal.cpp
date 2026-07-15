@@ -11,16 +11,32 @@
  */
 class Solution {
 public:
-
-    void inorder(TreeNode* root,vector<int>&ans){
-        if(root==NULL) return;
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-    }
-    vector<int> inorderTraversal(TreeNode* root) {
+    vector<int>inorderTraversal(TreeNode*root){
         vector<int>ans;
-        inorder(root,ans);
+        TreeNode*current=root;
+
+        while(current!=NULL){
+            if(current->left==NULL){
+                ans.push_back(current->val);
+                current=current->right;
+            }
+            else{
+                TreeNode*IP=current->left;
+                while(IP->right!=NULL && IP->right!=current){
+                    IP=IP->right;
+                }
+
+                if(IP->right==NULL){
+                    IP->right=current;
+                    current=current->left;
+                }
+                else{
+                    IP->right=NULL;
+                    ans.push_back(current->val);
+                    current=current->right;
+                }
+            }
+        }
         return ans;
     }
 };
