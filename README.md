@@ -144,6 +144,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/madhurkamble/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhurkamble/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -187,6 +188,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -197,6 +199,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -215,6 +218,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -249,4 +253,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
