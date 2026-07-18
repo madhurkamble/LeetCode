@@ -165,6 +165,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,10 +240,12 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
