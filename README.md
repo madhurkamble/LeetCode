@@ -199,6 +199,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,12 +212,14 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0543-diameter-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -275,4 +279,5 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0098-validate-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/madhurkamble/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
