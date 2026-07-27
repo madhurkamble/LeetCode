@@ -169,6 +169,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
@@ -179,6 +180,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -304,6 +306,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
