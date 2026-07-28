@@ -200,6 +200,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -217,6 +218,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -229,6 +231,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -242,6 +245,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -288,6 +292,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
