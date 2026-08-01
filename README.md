@@ -265,6 +265,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## String Matching
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/madhurkamble/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
