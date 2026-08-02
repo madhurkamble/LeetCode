@@ -281,6 +281,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/madhurkamble/LeetCode/tree/master/0007-reverse-integer) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
