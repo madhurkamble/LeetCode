@@ -313,6 +313,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/madhurkamble/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
