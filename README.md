@@ -168,6 +168,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0001-two-sum](https://github.com/madhurkamble/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/madhurkamble/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
@@ -293,6 +294,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/madhurkamble/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhurkamble/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
