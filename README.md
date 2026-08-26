@@ -181,6 +181,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/madhurkamble/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhurkamble/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
@@ -418,4 +419,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/madhurkamble/LeetCode/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/madhurkamble/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
