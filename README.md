@@ -212,6 +212,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -235,6 +236,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0098-validate-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -255,6 +257,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/madhurkamble/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/madhurkamble/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/madhurkamble/LeetCode/tree/master/0207-course-schedule) |
@@ -271,6 +274,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/madhurkamble/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madhurkamble/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurkamble/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
