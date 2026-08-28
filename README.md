@@ -176,6 +176,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0200-number-of-islands](https://github.com/madhurkamble/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/madhurkamble/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -426,5 +427,6 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/madhurkamble/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
