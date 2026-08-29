@@ -176,6 +176,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0200-number-of-islands](https://github.com/madhurkamble/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/madhurkamble/LeetCode/tree/master/0994-rotting-oranges) |
@@ -310,6 +311,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0007-reverse-integer](https://github.com/madhurkamble/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhurkamble/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -325,6 +327,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0001-two-sum](https://github.com/madhurkamble/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhurkamble/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -353,6 +356,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/madhurkamble/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/madhurkamble/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -365,6 +369,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
 ## Quickselect
@@ -424,6 +429,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/madhurkamble/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
