@@ -185,6 +185,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhurkamble/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/madhurkamble/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhurkamble/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -206,6 +207,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/madhurkamble/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
 | ------- |
