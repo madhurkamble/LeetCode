@@ -177,6 +177,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/madhurkamble/LeetCode/tree/master/0994-rotting-oranges) |
@@ -387,6 +388,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhurkamble/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
 ## Z Algorithm
 |  |
 | ------- |
