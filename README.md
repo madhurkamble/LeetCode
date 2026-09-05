@@ -179,6 +179,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0239-sliding-window-maximum](https://github.com/madhurkamble/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -334,6 +335,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhurkamble/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -363,6 +365,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0173-binary-search-tree-iterator](https://github.com/madhurkamble/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/madhurkamble/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -376,6 +379,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
@@ -393,6 +397,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhurkamble/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Z Algorithm
 |  |
