@@ -308,6 +308,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0058-length-of-last-word](https://github.com/madhurkamble/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -403,6 +404,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/madhurkamble/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Z Algorithm
 |  |
@@ -458,4 +460,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhurkamble/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
