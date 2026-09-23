@@ -319,6 +319,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0007-reverse-integer](https://github.com/madhurkamble/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -363,6 +364,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/madhurkamble/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -465,4 +467,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
