@@ -168,6 +168,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0001-two-sum](https://github.com/madhurkamble/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/madhurkamble/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhurkamble/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -364,6 +365,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhurkamble/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0098-validate-binary-search-tree) |
