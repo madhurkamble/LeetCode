@@ -325,6 +325,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0007-reverse-integer](https://github.com/madhurkamble/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/madhurkamble/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/madhurkamble/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
@@ -477,9 +478,14 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/madhurkamble/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
