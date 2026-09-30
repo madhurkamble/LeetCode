@@ -176,6 +176,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/madhurkamble/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/madhurkamble/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/madhurkamble/LeetCode/tree/master/0200-number-of-islands) |
@@ -479,6 +480,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/madhurkamble/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
 ## Newton's Method
 |  |
