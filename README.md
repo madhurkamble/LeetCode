@@ -329,6 +329,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/madhurkamble/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -466,6 +467,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/madhurkamble/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -490,4 +492,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
