@@ -332,6 +332,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0202-happy-number](https://github.com/madhurkamble/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/madhurkamble/LeetCode/tree/master/0326-power-of-three) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhurkamble/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -500,4 +501,5 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/madhurkamble/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
