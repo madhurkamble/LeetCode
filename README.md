@@ -390,6 +390,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/madhurkamble/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/madhurkamble/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/madhurkamble/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/madhurkamble/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhurkamble/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -507,4 +508,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0231-power-of-two](https://github.com/madhurkamble/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhurkamble/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurkamble/LeetCode/tree/master/0342-power-of-four) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/madhurkamble/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
