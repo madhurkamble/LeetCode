@@ -189,6 +189,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/madhurkamble/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurkamble/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -337,6 +338,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0326-power-of-three](https://github.com/madhurkamble/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurkamble/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhurkamble/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhurkamble/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurkamble/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -499,6 +501,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0070-climbing-stairs](https://github.com/madhurkamble/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/madhurkamble/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
 ## Newton's Method
 |  |
 | ------- |
@@ -522,4 +525,16 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0258-add-digits](https://github.com/madhurkamble/LeetCode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhurkamble/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
