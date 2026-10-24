@@ -187,6 +187,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0283-move-zeroes](https://github.com/madhurkamble/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/madhurkamble/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/madhurkamble/LeetCode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
@@ -420,6 +421,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhurkamble/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/madhurkamble/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurkamble/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/madhurkamble/LeetCode/tree/master/3731-find-missing-elements) |
