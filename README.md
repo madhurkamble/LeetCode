@@ -323,6 +323,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0257-binary-tree-paths](https://github.com/madhurkamble/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhurkamble/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhurkamble/LeetCode/tree/master/0392-is-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/madhurkamble/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0572-subtree-of-another-tree](https://github.com/madhurkamble/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
