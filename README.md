@@ -177,6 +177,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/madhurkamble/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/madhurkamble/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/madhurkamble/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/madhurkamble/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/madhurkamble/LeetCode/tree/master/0200-number-of-islands) |
@@ -405,6 +406,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0098-validate-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhurkamble/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/madhurkamble/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurkamble/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/madhurkamble/LeetCode/tree/master/0268-missing-number) |
