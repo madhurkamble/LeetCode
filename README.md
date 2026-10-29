@@ -189,6 +189,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/madhurkamble/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurkamble/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/madhurkamble/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/madhurkamble/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/madhurkamble/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurkamble/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
