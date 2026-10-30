@@ -354,6 +354,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub!
 | [0342-power-of-four](https://github.com/madhurkamble/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhurkamble/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/madhurkamble/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/madhurkamble/LeetCode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/madhurkamble/LeetCode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/madhurkamble/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhurkamble/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
